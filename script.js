@@ -9,7 +9,8 @@ let phrases = [
   { text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
   { text: 'посмотреть трейлер сериала и заодно первый сезон', image: 'https://code.s3.yandex.net/web-code/procrastinate/9.png' },
   { text: 'проверить непрочитанное в Telegram-каналах', image: 'https://code.s3.yandex.net/web-code/procrastinate/10.png' },
-  { text: 'спать', image: 'https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Queen_Qtr_NoStorage_Post_3_1200x.png'}
+  { text: 'спать', image: 'https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Queen_Qtr_NoStorage_Post_3_1200x.png'},
+  { text: 'гулять', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoNSlldj_n5CpaYzmcnJi2l39pacA5TBVE4w&usqp=CAU' }
 ];
 
 function getRandomElement(arr) {
